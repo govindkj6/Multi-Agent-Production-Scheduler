@@ -1,0 +1,6 @@
+event_id,type,target,start_time,duration_hours,details
+D1,machine_breakdown,M3,2026-11-11 10:00:00,3.0,Drilling-1 unexpected breakdown
+D2,rush_order,NEW_ORDER,2026-11-10 14:00:00,,"product=P2, qty=80, due=+28h, priority=High"
+D3,late_material,O005,2026-11-11 06:00:00,4.0,Material for order O005 delayed by 4 hours
+D4,machine_breakdown,M6,2026-11-13 08:00:00,2.0,Assembly-1 unexpected breakdown
+D5,rush_order,NEW_ORDER,2026-11-14 09:00:00,,"product=P4, qty=60, due=+11h, priority=High"

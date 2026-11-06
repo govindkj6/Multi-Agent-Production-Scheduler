@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+plotly
+simpy
+ortools
+langgraph
+anthropic
+python-dotenv
+reportlab

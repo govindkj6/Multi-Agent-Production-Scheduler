@@ -1,0 +1,22 @@
+product_id,product_name,step_order,capability,std_time_min_per_unit
+P1,Gear Housing,1,Cutting,5.0
+P1,Gear Housing,2,Drilling,4.0
+P1,Gear Housing,3,Welding,7.0
+P1,Gear Housing,4,Painting,3.0
+P1,Gear Housing,5,Packaging,2.0
+P2,Bracket,1,Cutting,3.0
+P2,Bracket,2,Drilling,2.0
+P2,Bracket,3,Painting,2.0
+P2,Bracket,4,Packaging,1.5
+P3,Panel,1,Cutting,4.0
+P3,Panel,2,Painting,3.0
+P3,Panel,3,Assembly,5.0
+P3,Panel,4,Packaging,2.0
+P4,Valve,1,Cutting,2.5
+P4,Valve,2,Drilling,3.0
+P4,Valve,3,Assembly,4.0
+P4,Valve,4,Packaging,1.5
+P5,Frame,1,Cutting,6.0
+P5,Frame,2,Welding,8.0
+P5,Frame,3,Assembly,6.0
+P5,Frame,4,Packaging,2.5

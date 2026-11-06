@@ -1,0 +1,9 @@
+machine_id,name,capability,speed_units_per_hour,energy_kw_active,energy_kw_idle
+M1,Cutting-1,Cutting,12,6.0,0.5
+M2,Cutting-2,Cutting,10,5.5,0.5
+M3,Drilling-1,Drilling,15,4.0,0.4
+M4,Welding-1,Welding,8,9.0,0.6
+M5,Painting-1,Painting,20,3.5,0.3
+M6,Assembly-1,Assembly,10,2.5,0.3
+M7,Assembly-2,Assembly,9,2.5,0.3
+M8,Packaging-1,Packaging,25,2.0,0.2
